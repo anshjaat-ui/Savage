@@ -1,0 +1,6 @@
+{
+  "name": "Bezzati Bot",
+  "description": "Savage AI roast-master that roasts your daily schedule and productivity with desi humor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
